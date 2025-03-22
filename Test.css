@@ -1,6 +1,7 @@
  .u-section-1 {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/images/04c92f4b1888be1f59c0cf8549526806.jpeg');
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('images/04c92f4b1888be1f59c0cf8549526806.jpeg');
   background-repeat: no-repeat;
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -1018,7 +1019,7 @@
     margin-right: 9px;
   }
 } .u-section-5 {
-  background-image: linear-gradient(0deg, rgba(41, 46, 51, 0.25), rgba(41, 46, 51, 0.25)), url('/images/8d98d9f895d45f1a7a10b3f4152d0a2a.jpeg');
+  background-image: linear-gradient(0deg, rgba(41, 46, 51, 0.25), rgba(41, 46, 51, 0.25)), url('images/8d98d9f895d45f1a7a10b3f4152d0a2a.jpeg');
   background-position: 50% 50%;
 }
 
@@ -1260,13 +1261,13 @@
 }
 
 .u-section-7 .u-image-1 {
-  background-image: url("/images/f1bd07a177034e1be82934e977c2d15a.jpeg");
+  background-image: url("images/f1bd07a177034e1be82934e977c2d15a.jpeg");
   min-height: 558px;
   background-position: 50% 50%;
 }
 
 .u-section-7 .u-image-2 {
-  background-image: url("/images/6351493a20e107bdcedcceec726ee963.jpeg");
+  background-image: url("images/6351493a20e107bdcedcceec726ee963.jpeg");
   min-height: 279px;
   background-position: 50% 50%;
 }
@@ -1325,7 +1326,7 @@
 }
 
 .u-section-7 .u-image-3 {
-  background-image: url("/images/b41165f4eeb68cd6cdbb88a1048f82a7.jpeg");
+  background-image: url("images/b41165f4eeb68cd6cdbb88a1048f82a7.jpeg");
   min-height: 279px;
   background-position: 50% 50%;
 }
